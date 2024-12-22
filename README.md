@@ -4,10 +4,10 @@ This is my personal website, showcasing my programming skills and passion for so
 
 ## Connect with Me
 
-<a href="https://github.com/di-lo">
+<a href="https://github.com/di-lo" title="GitHub">
   <img src="images/github-mark.png" alt="GitHub" style="width: 20px; height: 20px; vertical-align: middle;">
 </a>
-<a href="https://www.linkedin.com/in/dilara-isik/">
+<a href="https://www.linkedin.com/in/dilara-isik/" title="LinkedIn">
   <img src="images/LI-In-Bug.png" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;">
 </a>
 📞 [Phone](tel:+16154912792)
