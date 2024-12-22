@@ -4,7 +4,11 @@ This is my personal website, showcasing my programming skills and passion for so
 
 ## Connect with Me
 
-[![GitHub](images/github-mark.png)](https://github.com/your-username)
-[![LinkedIn](images/LI-In-Bug.png)](https://linkedin.com/in/your-username)
+<a href="https://github.com/di-lo">
+  <img src="images/github-mark.png" alt="GitHub" style="width: 20px; height: 20px; vertical-align: middle;">
+</a>
+<a href="https://www.linkedin.com/in/dilara-isik/">
+  <img src="images/LI-In-Bug.png" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;">
+</a>
 📞 [Phone](tel:+16154912792)
 📧 [Email](mailto:dilara.isik@vanderbilt.edu)
