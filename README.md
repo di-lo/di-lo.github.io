@@ -1,6 +1,6 @@
 # Dilara Isik
 
-This is my personal website, showcasing my programming skills, interdisciplinary experiences, and passion for solving real-world problems using technology. Built using Jekyll and the Cayman theme.
+This is my personal website, showcasing my programming skills and passion for solving real-world problems using technology. Hope you like it!
 
 ## Features
 
