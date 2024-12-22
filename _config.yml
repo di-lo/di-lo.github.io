@@ -1,5 +1,13 @@
-title: Cayman theme
+title: Dilara Isik
 description: Hi! I am majoring in Computer Science at Vanderbilt University. I am very excited to bring my strong programming and collaboration skills, interdisciplinary interests and experiences, and–most importantly–passion for solving real-world problems using technology.
 show_downloads: true
 google_analytics:
+url: "https://dilaraisik.com"
 theme: jekyll-theme-cayman
+
+social_links:
+  github: "https://github.com/di-lo"
+  linkedin: "https://www.linkedin.com/in/dilara-isik/"
+  phone: "+16154912792"
+  email: "dilara.isik@vanderbilt.edu"
+
