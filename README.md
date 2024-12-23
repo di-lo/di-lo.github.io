@@ -1,7 +1,4 @@
-# Dilara Isik
-
-Welcome to my personal website, where I highlight my programming expertise and dedication to addressing real-world challenges using Java, Python, C++, R, JavaScript, AppInventor, and GitHub. 
-Hope you like it!
+Welcome to my website! Here, I showcase my programming skills and passion for solving real-world challenges with Java, Python, C++, R, JavaScript, AppInventor, and GitHub.
 
 ## Coursework
 
