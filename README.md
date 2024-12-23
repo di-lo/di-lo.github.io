@@ -11,9 +11,9 @@ Here are some of my recent projects:
   - [Global Social Leaders](https://github.com/di-lo/Global_Social_Leaders)
 - [USGS CAST Program](https://github.com/di-lo/USGS-CAST-Program): 
 This study examines how explicit geographic references in species names influence bias in weed risk assessments, utilizing R to analyze invasive plant management data and JavaScript to randomize a Qualtrics survey for the study.
-- [Climate Data Bars](https://github.com/di-lo/image-data-bars): This program loads climate data into a file and visualize it as data stripes using Python.
 - [Identification of Fake Twitter Accounts](https://github.com/di-lo/identification_of_fake_twitter_accounts): 
-Analyzed social media accounts by extracting timeline data via Twitter's API and comparing behavioral patterns, text, and media content using dynamic time warping, cosine similarity, and deep learning methods to detect fake accounts with Python. 
+Analyzed social media accounts by extracting timeline data via Twitter's API and comparing behavioral patterns, text, and media content using dynamic time warping, cosine similarity, and deep learning methods to detect fake accounts with Python.
+- [Climate Data Bars](https://github.com/di-lo/image-data-bars): This program loads climate data into a file and visualize it as data stripes using Python.
 - [Koch Snowflakes](https://github.com/di-lo/koch-snowflakes): Creating different types of koch snowflakes using Pyhton.
 - #### My First Pyhton Projects
   - [Pyhton Porjects](https://github.com/di-lo/py-portfolio)
