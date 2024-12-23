@@ -7,17 +7,20 @@ Hope you like it!
 
 Here are some of my recent projects:
 
-- [Technovation Girls Project](https://github.com/di-lo/Technovation_Girls_Project): A short description of the project.
+- [Technovation Girls Project](https://github.com/di-lo/Technovation_Girls_Project): Developed LEXIA, a gamified educational app for primary school students with learning difficulties, using AppInventor.
   - [Global Social Leaders](https://github.com/di-lo/Global_Social_Leaders)
-- [USGS CAST Program](https://github.com/di-lo/USGS-CAST-Program): Another project description.
-- [Climate Data Bars](https://github.com/di-lo/image-data-bars): This program loads climate data into a file and visualize it as data stripes.
+- [USGS CAST Program](https://github.com/di-lo/USGS-CAST-Program): 
+This study examines how explicit geographic references in species names influence bias in weed risk assessments, utilizing R to analyze invasive plant management data and JavaScript to randomize a Qualtrics survey for the study.
+- [Climate Data Bars](https://github.com/di-lo/image-data-bars): This program loads climate data into a file and visualize it as data stripes using Python.
+- [Identification of Fake Twitter Accounts](https://github.com/di-lo/identification_of_fake_twitter_accounts): 
+Analyzed social media accounts by extracting timeline data via Twitter's API and comparing behavioral patterns, text, and media content using dynamic time warping, cosine similarity, and deep learning methods to detect fake accounts with Python. 
 - [Koch Snowflakes](https://github.com/di-lo/koch-snowflakes): Creating different types of koch snowflakes using Pyhton.
-- [Identification of Fake Twitter Accounts](https://github.com/di-lo/identification_of_fake_twitter_accounts): Another project description.
-- [Pyhton Porjects](https://github.com/di-lo/py-portfolio): This program loads climate data into a file and visualize it as data stripes.
-  - [Reverse Dictionary](https://github.com/di-lo/reverse_dictionary): Another project description.
-  - [Text Processing](https://github.com/di-lo/text_processing): Another project description.
-  - [Lists](https://github.com/di-lo/lists_project): Another project description.
-  - [Green Screen](https://github.com/di-lo/image): Another project description.
+- #### My First Pyhton Projects
+  - [Pyhton Porjects](https://github.com/di-lo/py-portfolio)
+    - [Reverse Dictionary](https://github.com/di-lo/reverse_dictionary)
+    - [Text Processing](https://github.com/di-lo/text_processing)
+    - [Lists](https://github.com/di-lo/lists_project)
+    - [Green Screen](https://github.com/di-lo/image)
 
 ### Connect with Me
 
