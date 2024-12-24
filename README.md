@@ -10,7 +10,7 @@ Welcome to my website! Here, I showcase my programming skills and passion for so
 - Computer Architecture
 - **Math:** Multivariable Calculus, Linear Algebra
 
-## My GitHub Projects
+## My Projects
 
 Here are some of my recent projects:
 
