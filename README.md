@@ -14,6 +14,7 @@ Welcome to my website! Here, I showcase my programming skills and passion for so
 
 Here are some of my recent projects:
 
+- [Strategy Plan for DNA Data Storage](https://github.com/di-lo/Technovation_Girls_Project): Evaluated the feasibility, applications, and commercialization strategies of DNA Data Storage, focusing on its integration into the BFSI sector.
 - [Technovation Girls Project](https://github.com/di-lo/Technovation_Girls_Project): Developed LEXIA, a gamified educational app for primary school students with learning difficulties, using **AppInventor**.
   - [Global Social Leaders](https://github.com/di-lo/Global_Social_Leaders)
 - [USGS CAST Program](https://github.com/di-lo/USGS-CAST-Program): 
